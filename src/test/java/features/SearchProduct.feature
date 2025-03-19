@@ -10,6 +10,7 @@ Then Same product ShortText <NAME> should be displayed in Offers Page also
 And Validate prodct matches with landing Page 
 
 Examples:
-|NAME |
+|NAME | Had |
+	
 |BRO |	
 |MAN |
